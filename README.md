@@ -1,1 +1,1 @@
-this is my exercise repo
+this is my second semster altschool repo
